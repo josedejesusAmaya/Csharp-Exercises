@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Banco\Banco\obj\Debug\Banco.pdb

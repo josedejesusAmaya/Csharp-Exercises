@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\bin\Debug\DiccionarioVisual.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\bin\Debug\DiccionarioVisual.exe
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\bin\Debug\DiccionarioVisual.pdb
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.exe
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioVisual\DiccionarioVisual\obj\Debug\DiccionarioVisual.pdb

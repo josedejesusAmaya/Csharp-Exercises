@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\examen4\examen4\bin\Debug\examen4.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\examen4\examen4\bin\Debug\examen4.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\examen4\examen4\bin\Debug\examen4.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\examen4\examen4\obj\Debug\examen4.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\examen4\examen4\obj\Debug\examen4.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\examen4\examen4\obj\Debug\examen4.pdb

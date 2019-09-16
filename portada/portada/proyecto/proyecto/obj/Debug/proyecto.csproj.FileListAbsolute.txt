@@ -1,0 +1,22 @@
+c:\users\owner\documents\visual studio 2015\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Patricio\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Patricio\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Patricio\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.Forma1.resources
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Patricio\Desktop\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.Forma1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.Juego.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.Instrucciones.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\portada\proyecto\proyecto\obj\Debug\proyecto.InstruccionesDos.resources

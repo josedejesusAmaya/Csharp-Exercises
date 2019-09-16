@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.exe
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.pdb
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.exe
+c:\users\owner\documents\visual studio 2015\Projects\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.pdb

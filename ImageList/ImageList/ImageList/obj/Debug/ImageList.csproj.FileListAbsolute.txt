@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\bin\Debug\ImageList.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\bin\Debug\ImageList.exe
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\bin\Debug\ImageList.pdb
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.exe
+c:\users\owner\documents\visual studio 2015\Projects\ImageList\ImageList\obj\Debug\ImageList.pdb

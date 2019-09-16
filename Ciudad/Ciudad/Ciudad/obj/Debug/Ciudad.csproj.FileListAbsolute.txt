@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Ciudad\Ciudad\bin\Debug\Ciudad.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Ciudad\Ciudad\bin\Debug\Ciudad.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Ciudad\Ciudad\bin\Debug\Ciudad.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Ciudad\Ciudad\obj\Debug\Ciudad.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Ciudad\Ciudad\obj\Debug\Ciudad.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Ciudad\Ciudad\obj\Debug\Ciudad.pdb

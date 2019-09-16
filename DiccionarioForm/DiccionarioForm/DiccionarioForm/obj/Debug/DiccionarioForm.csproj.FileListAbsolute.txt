@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\bin\Debug\DiccionarioForm.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\bin\Debug\DiccionarioForm.exe
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\bin\Debug\DiccionarioForm.pdb
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.exe
+c:\users\owner\documents\visual studio 2015\Projects\DiccionarioForm\DiccionarioForm\obj\Debug\DiccionarioForm.pdb

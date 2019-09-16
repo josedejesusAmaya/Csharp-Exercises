@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\bin\Debug\explosion.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\bin\Debug\explosion.exe
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\bin\Debug\explosion.pdb
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.exe
+c:\users\owner\documents\visual studio 2015\Projects\explosion\explosion\obj\Debug\explosion.pdb

@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\bin\Debug\NivelUno.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\bin\Debug\NivelUno.exe
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\bin\Debug\NivelUno.pdb
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.nivelUno.resources
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.exe
+c:\users\owner\documents\visual studio 2015\Projects\NivelUno\NivelUno\obj\Debug\NivelUno.pdb

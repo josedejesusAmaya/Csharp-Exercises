@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\bin\Debug\Diccionario.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\obj\Debug\Diccionario.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\obj\Debug\Diccionario.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Diccionario\Diccionario\obj\Debug\Diccionario.pdb

@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Mundo\Mundo\bin\Debug\Mundo.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mundo\Mundo\bin\Debug\Mundo.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mundo\Mundo\bin\Debug\Mundo.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mundo\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mundo\Mundo\obj\Debug\Mundo.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mundo\Mundo\obj\Debug\Mundo.pdb

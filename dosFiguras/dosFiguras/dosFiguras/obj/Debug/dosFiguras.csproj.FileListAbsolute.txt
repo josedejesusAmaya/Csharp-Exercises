@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\bin\Debug\dosFiguras.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\bin\Debug\dosFiguras.exe
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\bin\Debug\dosFiguras.pdb
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.exe
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.pdb
+c:\users\owner\documents\visual studio 2015\Projects\dosFiguras\dosFiguras\obj\Debug\dosFiguras.csprojResolveAssemblyReference.cache

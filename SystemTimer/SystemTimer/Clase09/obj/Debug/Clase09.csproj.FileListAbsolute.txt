@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\bin\Debug\Clase09.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\bin\Debug\Clase09.exe
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\bin\Debug\Clase09.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\obj\Debug\Clase09.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\obj\Debug\Clase09.exe
+c:\users\owner\documents\visual studio 2015\Projects\Clase09\Clase09\obj\Debug\Clase09.pdb

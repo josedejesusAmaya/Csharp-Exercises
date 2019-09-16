@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\bin\Debug\EventosDos.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\bin\Debug\EventosDos.exe
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\bin\Debug\EventosDos.pdb
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\obj\Debug\EventosDos.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\obj\Debug\EventosDos.exe
+c:\users\owner\documents\visual studio 2015\Projects\EventosDos\EventosDos\obj\Debug\EventosDos.pdb

@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\bin\Debug\ClaseLunes.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\bin\Debug\ClaseLunes.exe
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\bin\Debug\ClaseLunes.pdb
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.exe
+c:\users\owner\documents\visual studio 2015\Projects\ClaseLunes\ClaseLunes\obj\Debug\ClaseLunes.pdb

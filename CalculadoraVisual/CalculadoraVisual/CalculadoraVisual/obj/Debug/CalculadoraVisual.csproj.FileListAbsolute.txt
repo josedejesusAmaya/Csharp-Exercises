@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\bin\Debug\CalculadoraVisual.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\bin\Debug\CalculadoraVisual.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\bin\Debug\CalculadoraVisual.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.Form1.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\CalculadoraVisual\CalculadoraVisual\obj\Debug\CalculadoraVisual.pdb

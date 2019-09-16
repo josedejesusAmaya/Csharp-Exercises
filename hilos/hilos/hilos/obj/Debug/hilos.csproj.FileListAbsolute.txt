@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\bin\Debug\hilos.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\bin\Debug\hilos.exe
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\bin\Debug\hilos.pdb
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\obj\Debug\hilos.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\obj\Debug\hilos.exe
+c:\users\owner\documents\visual studio 2015\Projects\hilos\hilos\obj\Debug\hilos.pdb

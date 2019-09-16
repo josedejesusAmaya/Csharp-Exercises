@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\bin\Debug\claseJueves.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\bin\Debug\claseJueves.exe
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\bin\Debug\claseJueves.pdb
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.exe
+c:\users\owner\documents\visual studio 2015\Projects\claseJueves\claseJueves\obj\Debug\claseJueves.pdb

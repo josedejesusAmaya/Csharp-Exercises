@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\bin\Debug\examenTres.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\bin\Debug\examenTres.exe
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\bin\Debug\examenTres.pdb
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.exe
+c:\users\owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\examenTres\examenTres\obj\Debug\examenTres.csprojResolveAssemblyReference.cache

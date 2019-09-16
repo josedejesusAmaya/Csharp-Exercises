@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\bin\Debug\Autocompletar.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\bin\Debug\Autocompletar.exe
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\bin\Debug\Autocompletar.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.exe
+c:\users\owner\documents\visual studio 2015\Projects\Autocompletar\Autocompletar\obj\Debug\Autocompletar.pdb

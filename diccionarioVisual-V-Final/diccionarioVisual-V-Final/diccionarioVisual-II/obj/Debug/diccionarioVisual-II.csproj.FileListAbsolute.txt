@@ -1,0 +1,78 @@
+c:\users\owner\documents\visual studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-II\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-III\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-IV\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-copia2\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.Cache
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe.config
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.exe
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\bin\Debug\diccionarioVisual-II.pdb
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csprojAssemblyReference.cache
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form1.resources
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form2.resources
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Form3.resources
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual_II.Properties.Resources.resources
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.GenerateResource.cache
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.csproj.CoreCompileInputs.cache
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.exe
+C:\Users\Pepe AG\Documents\diccionarioVisual-V-Final\diccionarioVisual-V-Final\diccionarioVisual-II\obj\Debug\diccionarioVisual-II.pdb

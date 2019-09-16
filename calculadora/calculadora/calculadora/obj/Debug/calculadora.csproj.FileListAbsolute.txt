@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb

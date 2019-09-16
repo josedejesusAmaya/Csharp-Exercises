@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2015\Projects\ArchivosDos\ArchivosDos\bin\Debug\ArchivosDos.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ArchivosDos\ArchivosDos\bin\Debug\ArchivosDos.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ArchivosDos\ArchivosDos\bin\Debug\ArchivosDos.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ArchivosDos\ArchivosDos\obj\Debug\ArchivosDos.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ArchivosDos\ArchivosDos\obj\Debug\ArchivosDos.pdb

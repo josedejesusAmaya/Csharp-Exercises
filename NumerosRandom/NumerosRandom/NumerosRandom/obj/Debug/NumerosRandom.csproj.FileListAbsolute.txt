@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2015\Projects\NumerosRandom\NumerosRandom\bin\Debug\NumerosRandom.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\NumerosRandom\NumerosRandom\bin\Debug\NumerosRandom.exe
+c:\users\owner\documents\visual studio 2015\Projects\NumerosRandom\NumerosRandom\bin\Debug\NumerosRandom.pdb
+c:\users\owner\documents\visual studio 2015\Projects\NumerosRandom\NumerosRandom\obj\Debug\NumerosRandom.exe
+c:\users\owner\documents\visual studio 2015\Projects\NumerosRandom\NumerosRandom\obj\Debug\NumerosRandom.pdb

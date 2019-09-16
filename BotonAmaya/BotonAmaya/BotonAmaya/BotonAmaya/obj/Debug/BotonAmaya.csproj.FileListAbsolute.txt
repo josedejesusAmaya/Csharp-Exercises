@@ -1,0 +1,18 @@
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.exe.config
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.exe
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.pdb
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.Form1.resources
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.exe
+C:\Users\Alumnos\Desktop\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\bin\Debug\BotonAmaya.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\BotonAmaya\BotonAmaya\BotonAmaya\obj\Debug\BotonAmaya.csproj.GenerateResource.Cache

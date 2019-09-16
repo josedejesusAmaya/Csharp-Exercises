@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\bin\Debug\imageRebotando.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\bin\Debug\imageRebotando.exe
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\bin\Debug\imageRebotando.pdb
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.exe
+c:\users\owner\documents\visual studio 2015\Projects\imageRebotando\imageRebotando\obj\Debug\imageRebotando.pdb

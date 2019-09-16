@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\bin\Debug\clasemiercoles.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\bin\Debug\clasemiercoles.exe
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\bin\Debug\clasemiercoles.pdb
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.exe
+c:\users\owner\documents\visual studio 2015\Projects\clasemiercoles\clasemiercoles\obj\Debug\clasemiercoles.pdb

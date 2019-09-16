@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\bin\Debug\Explorador.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\bin\Debug\Explorador.exe
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\bin\Debug\Explorador.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.exe
+c:\users\owner\documents\visual studio 2015\Projects\Explorador\Explorador\obj\Debug\Explorador.pdb

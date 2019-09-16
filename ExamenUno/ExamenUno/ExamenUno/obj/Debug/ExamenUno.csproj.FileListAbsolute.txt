@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\bin\Debug\ExamenUno.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\bin\Debug\ExamenUno.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\bin\Debug\ExamenUno.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\obj\Debug\ExamenUno.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\obj\Debug\ExamenUno.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\ExamenUno\ExamenUno\obj\Debug\ExamenUno.pdb

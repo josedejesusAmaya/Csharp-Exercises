@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\bin\Debug\GDI.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\bin\Debug\GDI.exe
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\bin\Debug\GDI.pdb
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.exe
+c:\users\owner\documents\visual studio 2015\Projects\GDI\GDI\obj\Debug\GDI.pdb

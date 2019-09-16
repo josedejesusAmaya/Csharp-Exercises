@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\bin\Debug\TimerDelegado.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\bin\Debug\TimerDelegado.exe
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\bin\Debug\TimerDelegado.pdb
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\obj\Debug\TimerDelegado.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\obj\Debug\TimerDelegado.exe
+c:\users\owner\documents\visual studio 2015\Projects\TimerDelegado\TimerDelegado\obj\Debug\TimerDelegado.pdb

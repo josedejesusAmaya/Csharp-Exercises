@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+c:\users\owner\documents\visual studio 2015\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb

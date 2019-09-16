@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\bin\Debug\CuartoExamen.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\bin\Debug\CuartoExamen.exe
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\bin\Debug\CuartoExamen.pdb
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\obj\Debug\CuartoExamen.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\obj\Debug\CuartoExamen.exe
+c:\users\owner\documents\visual studio 2015\Projects\CuartoExamen\CuartoExamen\obj\Debug\CuartoExamen.pdb

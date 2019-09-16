@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\bin\Debug\arista.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\bin\Debug\arista.exe
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\bin\Debug\arista.pdb
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.exe
+c:\users\owner\documents\visual studio 2015\Projects\arista\arista\obj\Debug\arista.pdb
